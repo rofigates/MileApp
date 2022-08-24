@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_1_Login_Positif</name>
+   <tag>TC_001_1_Login_Positif</tag>
+   <comment></comment>
+   <testCaseGuid>49e46754-e0a2-4d69-a5de-df3050082613</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0407d6f7-94b1-451d-afe6-2a5578a3087f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d353c6de-4b98-4303-9ec7-bd0c7a059749</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a3d33ba-b7f2-44b9-904d-2d0775bf05e4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testonboard'</defaultValue>
+      <description></description>
+      <id>0407d6f7-94b1-451d-afe6-2a5578a3087f</id>
+      <masked>false</masked>
+      <name>organizationName</name>
+   </variable>
+   <variable>
+      <defaultValue>'rofigates95@gmail.com'</defaultValue>
+      <description></description>
+      <id>d353c6de-4b98-4303-9ec7-bd0c7a059749</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'JltEQgaE0YE='</defaultValue>
+      <description></description>
+      <id>0a3d33ba-b7f2-44b9-904d-2d0775bf05e4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

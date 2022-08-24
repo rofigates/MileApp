@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_2_Invalid_Organization</name>
+   <tag>TC_001_2_Invalid_Organization</tag>
+   <comment></comment>
+   <testCaseGuid>d956a663-2213-4b55-b773-dec9ce1d0479</testCaseGuid>
+</TestCaseEntity>

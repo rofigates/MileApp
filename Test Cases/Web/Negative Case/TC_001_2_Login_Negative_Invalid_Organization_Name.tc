@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_2_Login_Negative_Invalid_Organization_Name</name>
+   <tag>TC_001_1_Login_Negative_Invalid_Organization_Name</tag>
+   <comment></comment>
+   <testCaseGuid>2c1a928e-8541-4eec-8918-060a60697cf2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59da944d-3149-460d-9e81-168891e4f014</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Testingqwe'</defaultValue>
+      <description></description>
+      <id>59da944d-3149-460d-9e81-168891e4f014</id>
+      <masked>false</masked>
+      <name>organizationName</name>
+   </variable>
+</TestCaseEntity>

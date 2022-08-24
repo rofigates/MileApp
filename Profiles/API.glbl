@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>API</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://apidev.mile.app/v1/login'</initValue>
+      <name>Base_url_Api_Login</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://apidev.mile.app/v1/org_login'</initValue>
+      <name>Base_url_Api_Org_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CheckOrganizationPositif</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

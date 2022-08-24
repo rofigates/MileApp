@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_1_CheckOrganization</name>
+   <tag>TC_001_1_CheckOrganization</tag>
+   <comment></comment>
+   <testCaseGuid>439363d2-ee41-407b-8f0d-60f06911cb49</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f28ba768-00e0-4aeb-a4e3-506123dc18e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testonboard'</defaultValue>
+      <description></description>
+      <id>f28ba768-00e0-4aeb-a4e3-506123dc18e7</id>
+      <masked>false</masked>
+      <name>org_name</name>
+   </variable>
+</TestCaseEntity>

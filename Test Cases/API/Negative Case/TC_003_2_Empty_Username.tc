@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003_2_Empty_Username</name>
+   <tag>TC_002_2_Empty_Username</tag>
+   <comment></comment>
+   <testCaseGuid>afbaa53f-c75d-4bcb-8085-e74011dbfaa4</testCaseGuid>
+</TestCaseEntity>
